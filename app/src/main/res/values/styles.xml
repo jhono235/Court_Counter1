@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#1F838F</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FA6D50</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
+    </style>
+</resources>
